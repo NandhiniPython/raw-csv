@@ -11,6 +11,6 @@ wed: `sealife`        - 120 - [https://github.com/NandhiniPython/life-in-sea](ht
 
 thu: `food`           - 120 - [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)
 
-fri: `birds`          - 120 - [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)
+fri: `birds`          - 135 - [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)
 
 sat: `teatime`        - 120 - [https://github.com/RajkumarGalaxy/tea-time](https://github.com/RajkumarGalaxy/tea-time)
