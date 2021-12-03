@@ -1,5 +1,8 @@
 # raw-csv
+
 dataset raw csv files
+
+weekly upload schedule
 
 sun: `cars`           - 120 - [https://github.com/RajkumarGalaxy/cars](https://github.com/RajkumarGalaxy/cars)
 
