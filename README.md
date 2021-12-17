@@ -11,7 +11,7 @@ weekly upload schedule
 | tue | `architecture`   | 150    | [https://github.com/NandhiniPython/Architectures](https://github.com/NandhiniPython/Architectures)  |
 | wed | `sealife`        | 140    | [https://github.com/NandhiniPython/life-in-sea](https://github.com/NandhiniPython/life-in-sea)      |
 | thu | `food`           | 150    | [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)                    |
-| fri | `birds`          | 150    | [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)                  |
+| fri | `birds`          | 160    | [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)                  |
 | sat | `teatime`        | 170    | [https://github.com/RajkumarGalaxy/tea-time](https://github.com/RajkumarGalaxy/tea-time)            |
 
 ## CARS
