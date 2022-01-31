@@ -7,7 +7,7 @@ weekly upload schedule
 | DAY | NAME             | COUNT  | ORIGINAL REPO                                                                                       |
 |-----|------------------| :----: |-----------------------------------------------------------------------------------------------------|
 | sun | `cars`           | 180    | [https://github.com/RajkumarGalaxy/cars](https://github.com/RajkumarGalaxy/cars)                    |
-| mon | `cake`           | 180    | [https://github.com/RajkumarGalaxy/cake](https://github.com/RajkumarGalaxy/cake)                    |
+| mon | `cake`           | 190    | [https://github.com/RajkumarGalaxy/cake](https://github.com/RajkumarGalaxy/cake)                    |
 | tue | `architecture`   | 200    | [https://github.com/NandhiniPython/Architectures](https://github.com/NandhiniPython/Architectures)  |
 | wed | `sealife`        | 170    | [https://github.com/NandhiniPython/life-in-sea](https://github.com/NandhiniPython/life-in-sea)      |
 | thu | `food`           | 190    | [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)                    |
