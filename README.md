@@ -10,7 +10,7 @@ weekly upload schedule
 | mon | `cake`           | 190    | [https://github.com/RajkumarGalaxy/cake](https://github.com/RajkumarGalaxy/cake)                    |
 | tue | `architecture`   | 210    | [https://github.com/NandhiniPython/Architectures](https://github.com/NandhiniPython/Architectures)  |
 | wed | `sealife`        | 160    | [https://github.com/NandhiniPython/life-in-sea](https://github.com/NandhiniPython/life-in-sea)      |
-| thu | `food`           | 190    | [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)                    |
+| thu | `food`           | 180    | [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)                    |
 | fri | `birds`          | 220    | [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)                  |
 | sat | `teatime`        | 200    | [https://github.com/RajkumarGalaxy/tea-time](https://github.com/RajkumarGalaxy/tea-time)            |
 
