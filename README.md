@@ -12,7 +12,7 @@ weekly upload schedule
 | wed | `sealife`        | 180    | [https://github.com/NandhiniPython/life-in-sea](https://github.com/NandhiniPython/life-in-sea)      |
 | thu | `food`           | 200    | [https://github.com/NandhiniPython/food](https://github.com/NandhiniPython/food)                    |
 | fri | `birds`          | 250    | [https://github.com/RajkumarGalaxy/birds](https://github.com/RajkumarGalaxy/birds)                  |
-| sat | `teatime`        | 210    | [https://github.com/RajkumarGalaxy/tea-time](https://github.com/RajkumarGalaxy/tea-time)            |
+| sat | `teatime`        | 220    | [https://github.com/RajkumarGalaxy/tea-time](https://github.com/RajkumarGalaxy/tea-time)            |
 
 ## CARS
 ![CARS](https://raw.githubusercontent.com/RajkumarGalaxy/cars/main/cars_labels.jpg)
